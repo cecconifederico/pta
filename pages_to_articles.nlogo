@@ -3,7 +3,7 @@ breed [articles article]
 breed [pages page]
 breed [users user]
 
-websites-own [id_website fame exclusivity]
+websites-own [name id_website sum_of_interactions count_of_articles fame_index exclusivity]
 articles-own [id_article contents from_website interactions]
 pages-own [from_users to_articles dimension age]
 users-own [activity]
