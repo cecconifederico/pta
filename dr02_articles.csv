@@ -1,211 +1,211 @@
-Codice Articolo ;Contenuto complottista;Intensit…;Tema;Politicamente orientato;Orientamento politico;Incitamento all'odio;Incitamento alla paura;websites
+Codice_Articolo;Contenuto_complottista;Intensita;Tema;Politicamente_orientato;Orientamento_politico;Incitamento_odio;Incitamento_paura;websites
 CT_1;1;5;CoronaFake;0;NA;1;0;web_65
-CT_2;1;5;No Vax;0;NA;1;1;web_34
+CT_2;1;5;No_Vax;0;NA;1;1;web_34
 CT_3;1;5;NWO;1;Destra;1;1;web_45
-CT_4;1;4;Dittatura sanitaria;0;NA;1;1;web_33
+CT_4;1;4;Dittatura_sanitaria;0;NA;1;1;web_33
 CT_4;1;4;CoronaFake;0;NA;1;1;web_33
-CT_5;1;5;Bill Gates;0;NA;1;1;web_55
-CT_5;1;5; NWO;0;NA;1;1;web_55
+CT_5;1;5;Bill_Gates;0;NA;1;1;web_55
+CT_5;1;5;_NWO;0;NA;1;1;web_55
 CT_6;1;4;NWO;0;NA;0;1;web_84
-CT_7;1;4;Dittatura sanitaria;0;NA;1;0;web_7
-CT_8;1;4;No Vax;0;NA;0;0;web_8
+CT_7;1;4;Dittatura_sanitaria;0;NA;1;0;web_7
+CT_8;1;4;No_Vax;0;NA;0;0;web_8
 CT_9;0;0;NA;0;NA;1;0;web_5
 CT_10;1;5;5G;0;NA;0;1;web_61
 CT_11;1;5;NWO;1;Destra;1;1;web_45
-CT_12;1;4;Dittatura sanitaria;1;Destra;1;1;web_67
-CT_13;1;5;Dittatura sanitaria;0;NA;1;1;web_73
+CT_12;1;4;Dittatura_sanitaria;1;Destra;1;1;web_67
+CT_13;1;5;Dittatura_sanitaria;0;NA;1;1;web_73
 CT_14;1;2;CoronaFake;0;NA;1;0;web_69
-CT_15;1;2;No Vax;0;NA;0;0;web_65
+CT_15;1;2;No_Vax;0;NA;0;0;web_65
 CT_16;0;0;NA;0;NA;0;1;web_65
-CT_17;1;2;Dittatura sanitaria;0;NA;1;0;web_1
+CT_17;1;2;Dittatura_sanitaria;0;NA;1;0;web_1
 CT_18;0;0;NA;0;NA;1;1;web_58
-CT_19;1;2;Dittatura sanitaria;0;NA;1;1;web_10
+CT_19;1;2;Dittatura_sanitaria;0;NA;1;1;web_10
 CT_20;1;2;CoronaFake;0;NA;0;0;web_52
 CT_21;0;0;NA;0;NA;1;0;web_88
 CT_22;0;0;NA;0;NA;1;0;web_85
 CT_23;1;5;UFO;0;NA;0;0;web_25
 CT_24;1;4;CoronaFake;0;NA;1;0;web_16
 CT_25;1;2;5G;0;NA;0;0;web_61
-CT_26;1;5;5G ;1;Destra;1;0;web_61
+CT_26;1;5;5G;1;Destra;1;0;web_61
 CT_27;1;4;NoMask;0;NA;1;0;web_88
-CT_27;1;4;Dittatura sanitaria;0;NA;1;0;web_88
+CT_27;1;4;Dittatura_sanitaria;0;NA;1;0;web_88
 CT_28;0;0;NA;1;Destra;1;1;web_14
 CT_29;0;0;NA;0;NA;1;1;web_60
-CT_30;1;2;Dittatura sanitaria;0;NA;1;1;web_48
+CT_30;1;2;Dittatura_sanitaria;0;NA;1;1;web_48
 CT_31;1;4;NWO;0;NA;0;0;web_25
-CT_32;1;3;Dittatura sanitaria;0;NA;1;1;web_8
+CT_32;1;3;Dittatura_sanitaria;0;NA;1;1;web_8
 CT_33;1;3;5G;0;NA;1;0;web_57
 CT_34;0;0;NA;0;NA;1;0;web_88
-CT_35;1;4;No Vax;0;NA;1;1;web_53
+CT_35;1;4;No_Vax;0;NA;1;1;web_53
 CT_36;1;4;CoronaFake;0;NA;1;0;web_13
-CT_37;1;4;No Vax;0;NA;1;0;web_21
+CT_37;1;4;No_Vax;0;NA;1;0;web_21
 CT_38;1;5;NWO;1;Destra;1;1;web_72
 CT_39;1;3;CoronaFake;0;NA;0;0;web_51
-CT_40;1;3;Dittatura sanitaria;0;NA;0;0;web_71
-CT_41;1;4;Bill Gates;0;NA;1;1;web_11
-CT_41;1;4;No Vax;0;NA;1;1;web_11
-CT_42;1;4;No Vax;0;NA;1;0;web_12
+CT_40;1;3;Dittatura_sanitaria;0;NA;0;0;web_71
+CT_41;1;4;Bill_Gates;0;NA;1;1;web_11
+CT_41;1;4;No_Vax;0;NA;1;1;web_11
+CT_42;1;4;No_Vax;0;NA;1;0;web_12
 CT_42;1;4;CoronaFake;0;NA;1;0;web_12
-CT_43;1;3;Big Pharma;0;NA;1;1;web_75
+CT_43;1;3;Big_Pharma;0;NA;1;1;web_75
 CT_44;1;3;CoronaFake;0;NA;0;0;web_83
-CT_45;1;5;No Vax;0;NA;1;1;web_65
+CT_45;1;5;No_Vax;0;NA;1;1;web_65
 CT_46;0;0;NA;0;NA;1;1;web_12
-CT_47;1;5;Bill Gates;0;NA;1;0;web_7
-CT_47;1;5;Qanon ;0;NA;1;0;web_7
+CT_47;1;5;Bill_Gates;0;NA;1;0;web_7
+CT_47;1;5;Qanon;0;NA;1;0;web_7
 CT_47;1;5;Ecomafie;0;NA;1;0;web_7
 CT_48;0;0;NA;1;Destra;1;1;web_8
 CT_49;0;0;NA;0;NA;1;0;web_30
-CT_50;1;5;Elezioni americane truccate;1;Destra;1;0;web_9
-CT_51;1;5;Elezioni americane truccate;0;NA;1;0;web_13
+CT_50;1;5;Elezioni_americane_truccate;1;Destra;1;0;web_9
+CT_51;1;5;Elezioni_americane_truccate;0;NA;1;0;web_13
 CT_52;1;4;CoronaFake;0;NA;1;0;web_65
-CT_52;1;4;Dittatura sanitaria;0;NA;1;0;web_65
+CT_52;1;4;Dittatura_sanitaria;0;NA;1;0;web_65
 CT_53;0;0;NA;0;NA;0;0;web_88
 CT_54;0;0;NA;0;NA;1;0;web_76
-CT_55;1;5;Dittatura sanitaria;0;NA;1;0;web_65
+CT_55;1;5;Dittatura_sanitaria;0;NA;1;0;web_65
 CT_56;1;4;CoronaFake;0;NA;1;0;web_50
 CT_57;1;2;CoronaFake;0;NA;0;1;web_28
 CT_58;0;0;NA;0;NA;0;0;web_75
 CT_59;1;5;CoronaFake;0;NA;1;0;web_75
-CT_60;1;4;Elezioni americane truccate;1;Destra;1;0;web_72
+CT_60;1;4;Elezioni_americane_truccate;1;Destra;1;0;web_72
 CT_61;1;4;UFO;0;NA;0;0;web_13
 CT_62;1;5;UFO;0;NA;0;0;web_74
-CT_63;1;5;Dittatura sanitaria;0;NA;1;0;web_81
+CT_63;1;5;Dittatura_sanitaria;0;NA;1;0;web_81
 CT_64;1;3;CoronaFake;0;NA;0;0;web_83
 CT_65;1;5;NWO;1;Destra;1;1;web_50
-CT_66;1;5;Elezioni americane truccate;1;Destra;0;0;web_65
-CT_67;1;4;Elezioni americane truccate;1;Destra;1;0;web_72
+CT_66;1;5;Elezioni_americane_truccate;1;Destra;0;0;web_65
+CT_67;1;4;Elezioni_americane_truccate;1;Destra;1;0;web_72
 CT_68;1;3;CoronaFake;0;NA;1;0;web_8
-CT_69;1;5;Elezioni americane truccate;1;Destra;1;0;web_8
-CT_70;1;4;Elezioni americane truccate;0;NA;0;0;web_8
-CT_71;1;5;Dittatura sanitaria;0;NA;1;1;web_75
+CT_69;1;5;Elezioni_americane_truccate;1;Destra;1;0;web_8
+CT_70;1;4;Elezioni_americane_truccate;0;NA;0;0;web_8
+CT_71;1;5;Dittatura_sanitaria;0;NA;1;1;web_75
 CT_72;1;2;NoMask;0;NA;1;0;web_8
 CT_73;1;4;CoronaFake;0;NA;1;1;web_70
-CT_73;1;4;Dittatura sanitaria;0;NA;1;1;web_70
-CT_74;1;5;Dittatura sanitaria;0;NA;1;0;web_7
+CT_73;1;4;Dittatura_sanitaria;0;NA;1;1;web_70
+CT_74;1;5;Dittatura_sanitaria;0;NA;1;0;web_7
 CT_75;0;0;NA;0;NA;1;0;web_79
 CT_76;1;2;CoronaFake;0;NA;1;1;web_38
 CT_77;;;NA;0;NA;0;1;web_41
 CT_78;1;4;NoMask;0;NA;1;1;web_65
-CT_79;1;5;Elezioni americane truccate;1;Destra;1;0;web_86
-CT_80;1;2;No Vax;0;NA;1;0;web_60
+CT_79;1;5;Elezioni_americane_truccate;1;Destra;1;0;web_86
+CT_80;1;2;No_Vax;0;NA;1;0;web_60
 CT_81;1;3;CoronaFake;0;NA;0;1;web_8
 CT_82;1;2;NoMask;0;NA;0;0;web_8
-CT_83;1;2;Dittatura sanitaria;0;NA;1;1;web_65
+CT_83;1;2;Dittatura_sanitaria;0;NA;1;1;web_65
 CT_84;0;0;NA;1;Destra;1;0;web_65
-CT_85;1;5;Elezioni americane truccate;1;Destra;0;0;web_17
-CT_86;1;3;No Vax;0;NA;1;0;web_87
-CT_87;1;4;Dittatura sanitaria;1;Movimento 5 stelle;0;0;web_80
+CT_85;1;5;Elezioni_americane_truccate;1;Destra;0;0;web_17
+CT_86;1;3;No_Vax;0;NA;1;0;web_87
+CT_87;1;4;Dittatura_sanitaria;1;Movimento_5_stelle;0;0;web_80
 CT_88;1;3;5G;0;NA;0;1;web_7
-CT_89;1;5;No Vax;0;NA;1;0;web_78
-CT_90;1;5;Elezioni americane truccate;1;Destra;1;1;web_29
+CT_89;1;5;No_Vax;0;NA;1;0;web_78
+CT_90;1;5;Elezioni_americane_truccate;1;Destra;1;1;web_29
 CT_91;1;3;NoMask;1;Destra;1;0;web_37
-CT_92;1;2;Dittatura sanitaria;0;NA;0;1;web_75
-CT_93;1;5;Dittatura sanitaria;1;Destra;0;1;web_8
-CT_94;1;4;No Vax;0;NA;1;1;web_12
-CT_94;1;4;Bill Gates;0;NA;1;1;web_12
+CT_92;1;2;Dittatura_sanitaria;0;NA;0;1;web_75
+CT_93;1;5;Dittatura_sanitaria;1;Destra;0;1;web_8
+CT_94;1;4;No_Vax;0;NA;1;1;web_12
+CT_94;1;4;Bill_Gates;0;NA;1;1;web_12
 CT_95;0;0;NA;0;NA;1;0;web_4
 CT_96;1;3;NoMask;0;NA;0;0;web_20
-CT_97;1;5; Qanon;1;Destra;1;1;web_33
-CT_97;1;5;Elezioni americane truccate;1;Destra;1;1;web_33
-CT_98;1;4;No Vax;0;NA;1;0;web_65
+CT_97;1;5;_Qanon;1;Destra;1;1;web_33
+CT_97;1;5;Elezioni_americane_truccate;1;Destra;1;1;web_33
+CT_98;1;4;No_Vax;0;NA;1;0;web_65
 CT_99;1;3;NoMask;0;NA;1;1;web_76
 CT_100;0;0;NA;0;NA;1;0;web_75
 CT_101;1;2;NoMask;0;NA;1;1;web_82
-CT_102;1;4;Elezioni americane truccate;1;Destra;1;1;web_67
+CT_102;1;4;Elezioni_americane_truccate;1;Destra;1;1;web_67
 CT_103;0;0;NA;0;NA;1;0;web_8
-CT_104;1;5;No Vax;0;NA;1;1;web_60
-CT_105;1;5;No Vax;0;NA;1;1;web_28
-CT_106;1;4;Dittatura sanitaria;0;NA;1;1;web_65
-CT_107;1;3;Dittatura sanitaria;0;NA;1;0;web_40
+CT_104;1;5;No_Vax;0;NA;1;1;web_60
+CT_105;1;5;No_Vax;0;NA;1;1;web_28
+CT_106;1;4;Dittatura_sanitaria;0;NA;1;1;web_65
+CT_107;1;3;Dittatura_sanitaria;0;NA;1;0;web_40
 CT_108;0;0;NA;0;NA;1;0;web_35
 CT_109;0;0;NA;0;NA;0;0;web_65
-CT_110;1;2;Dittatura sanitaria;0;NA;1;1;web_27
-CT_111;1;3;Dittatura sanitaria;0;NA;0;0;web_2
-CT_112;1;3;Boom economico cinese;0;NA;1;0;web_24
+CT_110;1;2;Dittatura_sanitaria;0;NA;1;1;web_27
+CT_111;1;3;Dittatura_sanitaria;0;NA;0;0;web_2
+CT_112;1;3;Boom_economico_cinese;0;NA;1;0;web_24
 CT_113;0;0;NA;0;NA;0;0;web_12
-CT_114;1;4;Dittatura sanitaria;0;NA;1;1;web_47
+CT_114;1;4;Dittatura_sanitaria;0;NA;1;1;web_47
 CT_114;1;4;NWO;0;NA;1;1;web_47
-CT_115;1;3;Dittatura sanitaria;0;NA;1;1;web_6
-CT_115;1;3;No Vax;0;NA;1;1;web_6
-CT_116;1;5;Scie Chimiche;0;NA;0;1;web_7
-CT_117;1;5;Dittatura sanitaria;0;NA;1;0;web_23
-CT_118;1;5;Dittatura sanitaria;0;NA;1;1;web_11
+CT_115;1;3;Dittatura_sanitaria;0;NA;1;1;web_6
+CT_115;1;3;No_Vax;0;NA;1;1;web_6
+CT_116;1;5;Scie_Chimiche;0;NA;0;1;web_7
+CT_117;1;5;Dittatura_sanitaria;0;NA;1;0;web_23
+CT_118;1;5;Dittatura_sanitaria;0;NA;1;1;web_11
 CT_119;1;2;CoronaFake;1;Destra;1;0;web_8
 CT_120;1;4;UFO;0;NA;0;0;web_31
-CT_121;1;4;No Vax;0;NA;0;1;web_39
+CT_121;1;4;No_Vax;0;NA;0;1;web_39
 CT_122;1;3;NoMask;0;NA;0;0;web_54
 CT_123;1;5;CoronaFake;0;NA;1;0;web_11
 CT_124;1;5;CoronaFake;0;NA;0;1;web_6
 CT_125;1;5;NWO;0;NA;1;1;web_74
 CT_125;1;5;CoronaFake;0;NA;1;1;web_74
 CT_126;1;5;QANON;1;Destra;1;1;web_12
-CT_127;1;4;Dittatura sanitaria;1;Destra;1;1;web_67
+CT_127;1;4;Dittatura_sanitaria;1;Destra;1;1;web_67
 CT_128;1;4;CoronaFake;0;NA;1;0;web_50
-CT_129;1;5;Dittatura sanitaria;1;Destra;1;0;web_46
-CT_130;1;5;Dittatura sanitaria;0;NA;1;1;web_8
-CT_131;1;4;Dittatura sanitaria;0;NA;1;1;web_66
-CT_132;1;4;Dittatura sanitaria;0;NA;1;1;web_65
+CT_129;1;5;Dittatura_sanitaria;1;Destra;1;0;web_46
+CT_130;1;5;Dittatura_sanitaria;0;NA;1;1;web_8
+CT_131;1;4;Dittatura_sanitaria;0;NA;1;1;web_66
+CT_132;1;4;Dittatura_sanitaria;0;NA;1;1;web_65
 CT_133;0;0;NA;0;NA;1;1;web_8
 CT_134;1;3;5G;0;NA;0;1;web_65
-CT_135;1;5;No Vax;1;Destra;1;0;web_65
-CT_135;1;5; Big Pharma;1;Destra;1;0;web_65
-CT_136;1;4;Dittatura sanitaria;0;NA;1;0;web_64
-CT_137;1;5;Big Pharma;1;Sinistra;1;1;web_67
-CT_137;1;5;No Vax;1;Sinistra;1;1;web_67
-CT_138;1;4;Elezioni americane truccate;1;Destra;1;0;web_21
+CT_135;1;5;No_Vax;1;Destra;1;0;web_65
+CT_135;1;5;_Big_Pharma;1;Destra;1;0;web_65
+CT_136;1;4;Dittatura_sanitaria;0;NA;1;0;web_64
+CT_137;1;5;Big_Pharma;1;Sinistra;1;1;web_67
+CT_137;1;5;No_Vax;1;Sinistra;1;1;web_67
+CT_138;1;4;Elezioni_americane_truccate;1;Destra;1;0;web_21
 CT_139;0;0;NA;0;NA;1;0;web_26
-CT_140;1;4;No Vax;0;NA;1;0;web_15
-CT_140;1;4;Big Pharma;0;NA;1;0;web_15
+CT_140;1;4;No_Vax;0;NA;1;0;web_15
+CT_140;1;4;Big_Pharma;0;NA;1;0;web_15
 CT_141;0;0;NA;0;NA;1;1;web_8
-CT_142;1;5;Elezioni americane truccate;1;Destra;0;0;web_21
+CT_142;1;5;Elezioni_americane_truccate;1;Destra;0;0;web_21
 CT_143;1;5;NWO;1;Destra;1;1;web_8
 CT_144;0;0;NA;0;NA;0;1;web_8
 CT_145;1;5;NoMask;0;NA;0;0;web_8
 CT_146;1;1;CoronaFake;0;NA;0;0;web_6
-CT_147;1;5;Dittatura sanitaria;1;Destra;1;0;web_88
-CT_148;1;5;Dittatura sanitaria;0;NA;0;1;web_72
-CT_148;1;5;No Vax;0;NA;0;1;web_72
+CT_147;1;5;Dittatura_sanitaria;1;Destra;1;0;web_88
+CT_148;1;5;Dittatura_sanitaria;0;NA;0;1;web_72
+CT_148;1;5;No_Vax;0;NA;0;1;web_72
 CT_149;0;0;NA;0;NA;1;0;web_66
-CT_150;1;2;Boom economico cinese;0;NA;1;0;web_82
-CT_151;1;3;Dittatura sanitaria;0;NA;1;0;web_8
+CT_150;1;2;Boom_economico_cinese;0;NA;1;0;web_82
+CT_151;1;3;Dittatura_sanitaria;0;NA;1;0;web_8
 CT_152;0;0;NA;0;NA;1;0;web_63
 CT_153;1;5;NWO;0;NA;1;1;web_65
-CT_154;1;5;Dittatura sanitaria;0;NA;1;1;web_63
-CT_155;1;4;Dittatura sanitaria;1;Destra;1;0;web_83
+CT_154;1;5;Dittatura_sanitaria;0;NA;1;1;web_63
+CT_155;1;4;Dittatura_sanitaria;1;Destra;1;0;web_83
 CT_156;0;0;NA;0;NA;1;0;web_72
 CT_157;1;3;CoronaFake;0;NA;1;1;web_7
-CT_157;1;3;Dittatura sanitaria;0;NA;1;1;web_7
+CT_157;1;3;Dittatura_sanitaria;0;NA;1;1;web_7
 CT_158;1;5;CoronaFake;1;Destra;1;1;web_68
 CT_159;1;5;CoronaFake;0;NA;1;0;web_59
 CT_160;0;0;NA;0;NA;0;1;web_22
-CT_161;1;4;Elezioni americane truccate;1;Destra;1;0;web_43
-CT_162;1;4;No Vax;0;NA;0;0;web_65
+CT_161;1;4;Elezioni_americane_truccate;1;Destra;1;0;web_43
+CT_162;1;4;No_Vax;0;NA;0;0;web_65
 CT_163;0;0;NA;0;NA;1;1;web_65
-CT_164;1;3;No Vax;0;NA;0;0;web_65
+CT_164;1;3;No_Vax;0;NA;0;0;web_65
 CT_165;1;1;NoMask;0;NA;0;0;web_49
 CT_166;0;0;NA;1;Destra;0;0;web_13
 CT_167;0;0;NA;0;NA;1;0;web_8
 CT_168;0;0;NA;0;NA;1;0;web_8
 CT_169;1;2;CoronaFake;1;Sinistra;0;0;web_83
-CT_170;1;5;Dittatura sanitaria;1;Destra;0;1;web_3
-CT_171;1;4;Elezioni americane truccate;1;Destra;0;0;web_65
+CT_170;1;5;Dittatura_sanitaria;1;Destra;0;1;web_3
+CT_171;1;4;Elezioni_americane_truccate;1;Destra;0;0;web_65
 CT_172;1;5;UFO;0;NA;0;0;web_36
-CT_173;1;4;Dittatura sanitaria;0;NA;1;0;web_36
-CT_174;1;2;Dittatura sanitaria;0;NA;0;0;web_18
+CT_173;1;4;Dittatura_sanitaria;0;NA;1;0;web_36
+CT_174;1;2;Dittatura_sanitaria;0;NA;0;0;web_18
 CT_175;1;2;NoMask;0;NA;1;0;web_65
 CT_176;1;5;NWO;1;Destra;1;1;web_89
 CT_177;0;0;NA;1;Destra;1;0;web_7
 CT_178;0;0;NA;0;NA;1;0;web_65
-CT_179;1;4;Dittatura sanitaria;1;Destra;1;1;web_81
-CT_180;1;4;Dittatura sanitaria;1;Destra;1;0;web_7
-CT_181;1;4;Elezioni americane truccate;1;Destra;1;1;web_72
-CT_182;1;5;Dittatura sanitaria;1;Destra;1;1;web_32
-CT_182;1;5;Elezioni americane truccate;1;Destra;1;1;web_32
+CT_179;1;4;Dittatura_sanitaria;1;Destra;1;1;web_81
+CT_180;1;4;Dittatura_sanitaria;1;Destra;1;0;web_7
+CT_181;1;4;Elezioni_americane_truccate;1;Destra;1;1;web_72
+CT_182;1;5;Dittatura_sanitaria;1;Destra;1;1;web_32
+CT_182;1;5;Elezioni_americane_truccate;1;Destra;1;1;web_32
 CT_183;1;3;NoMask;0;NA;1;1;web_82
 CT_184;1;5;NoMask;0;NA;1;1;web_3
-CT_185;0;0;Errore medico;0;NA;1;1;web_76
+CT_185;0;0;Errore_medico;0;NA;1;1;web_76
 CT_186;1;5;NWO;0;NA;1;1;web_42
-CT_187;1;3;Riduzionismo storico;1;Destra;0;0;web_59
-CT_188;1;5;Dittatura sanitaria;0;NA;1;1;web_56
+CT_187;1;3;Riduzionismo_storico;1;Destra;0;0;web_59
+CT_188;1;5;Dittatura_sanitaria;0;NA;1;1;web_56
 CT_189;0;0;NA;1;Destra;1;1;web_72
-CT_190;1;4;Elezioni americane truccate;1;Destra;0;0;web_65
+CT_190;1;4;Elezioni_americane_truccate;1;Destra;0;0;web_65

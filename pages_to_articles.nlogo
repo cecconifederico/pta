@@ -1,6 +1,17 @@
-breed [websites website]
+extensions [csv]
+
+
 breed [articles article]
+; Codice Articolo;Contenuto complottista;Intensita;Tema;Politicamente orientato;Orientamento politico;Incitamento odio;Incitamento paura;websites
+; CT_1;1;5;CoronaFake;0;NA;1;0;web_65
+
 breed [pages page]
+; Id_pagina;Source;Followers;Date;Interactions;Post.Type;Link;V7;id_articolo
+; pg_1;-  CIRCOLO  LA LOMBARDIA ATTIVA -;475;Thu Nov 05 2020 23:44:40 GMT+0000;2;Facebook;https://www.facebook.com/groups/1980248708868313/permalink/3212733052286533;128;CT_128
+
+breed [websites website]
+
+
 breed [users user]
 
 websites-own [name id_website sum_of_interactions count_of_articles fame_index exclusivity]
@@ -8,25 +19,28 @@ articles-own [id_article contents from_website interactions]
 pages-own [from_users to_articles dimension age]
 users-own [activity]
 
-; fame, is an integer [1:10], 10 is the max
-; exclusivity, is an integere [1:10], 10 is the max
-; contents, is a list [content1, content2, ...]
-; from_website, the index is id_website
-; interactions, is an integer
-; to articles, is a list [id_article1, id article2, ...]
+globals [articles_db pages_db websites_db users_db]
+
+
 
 to run_simulation
-  ask pages [
-    ; let my_article <- choose_article self
-    ; choose_article is based by: websites, users, and page properties (dimension, age)
-    ; add_my_article
+  ask articles [
+
   ]
   ; compute_stats
   ; draw_all
 end
 
 to setup_simulation
+  clear-all
+  set articles_db (csv:from-file "dr02_articles.csv" ";")
+  set pages_db (csv:from-file "dr02_pages.csv" ";")
+  set websites_db (csv:from-file "dr02_websites.csv" ";")
+  set users_db (csv:from-file "dr02_users.csv" ";")
 
+  foreach articles_db [x ->
+    show x
+  ]
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
@@ -130,7 +144,74 @@ Scenarios
 @#$#@#$#@
 ## WHAT IS IT?
 
-(a general understanding of what the model is trying to show or explain)
+Setup
+Carico il database relazionale
+4 liste 
+Websites_db
+Articles_db
+Page_db
+Users_db
+
+Creo 4 tipologie diversi di agenti:
+Websites
+Articles
+Pages
+Users
+websites-own [id_website fame exclusivity]
+articles-own [id_article contents from_website interactions]
+pages-own [from_users to_articles dimension age]
+users-own [activity]
+
+Il numero degli agenti è uguale ai record del database
+Le proprietà sono prese dal database
+I campi che legano le pagine egli articoli sono vuoti (le pagine e gli articoli sono scollegati). La simulazione fa esattamente questo. Lega le pagine agli articolo
+
+; fame, is an integer [1:10], 10 is the max
+; exclusivity, is an integere [1:10], 10 is the max
+; contents, is a list [content1, content2, ...]
+; from_website, the index is id_website
+; interactions, is an integer
+; to articles, is a list [id_article1, id article2, ...]
+
+Dettaglio agenti
+Pagine
+Id_pagina	Source	Followers	Date	Interactions	Post.Type	Link	V7	id_articolo
+pg_1	-  CIRCOLO  LA LOMBARDIA ATTIVA -	475	Thu Nov 05 2020 23:44:40 GMT+0000	2	Facebook	https://www.facebook.com/groups/1980248708868313/permalink/3212733052286533	128	CT_128
+pg_10	#IlMioVotoConta	4540	Thu Oct 15 2020 20:54:14 GMT+0000	0	Facebook	https://www.facebook.com/groups/552746508454213/permalink/1230242437371280	4	CT_4
+pg_100	Amazing	95412	Thu Oct 29 2020 14:01:08 GMT+0000	1	Facebook	https://www.facebook.com/Fantasia20019/posts/3524733517588026	18	CT_18
+
+Articoli
+Titolo	Parole_codici	Categorie	Testata
+“ACCENDI LA TV E NON SI SENTE PARLARE DI ALTRO CHE ‘COVID, COVID, COVID, COVID, COVID, COVID			web_9
+“C’è un disegno planetario: imporranno un nuovo lockdown, ma non per ragioni virologiche” 			web_67
+
+Websites
+Name	ID_web	sum_of_interactions	count_of_articles	Colonna2	Colonna1	Colonna12	fame_index	exclusivity
+AgenPress	web_1	131	1	6,800210859	0	3,40010543	3,40010543	3
+Alessandria24.com	web_2	23	1	1,10701107	0	0,553505535	0,553505535	1
+Ambiente Bio	web_3	35	2	1,739588824	4,166666667	2,953127746	2,953127746	5
+Ansa	web_4	225	1	11,75540327	0	5,877701634	5,877701634	1
+
+Users
+ID_User	Comment	ID_Pages
+ID: 100001360176159	Stanno morendo, purtroppo, le solite centinaia di persone con " normali " polmoniti stagionali. Il sistema spinge almeno l'80% delle persone a credere che il problema sia il coxxd19 .....in attesa del coxxid20   ????	pg_110
+ID: 100004450984804	Grande Doctor	pg_110
+ID: 1569651172	Riusciremo a smascherare l'inganno, con un po di pazienza si arriva alla verità. grazie Stefano Montanari. 	pg_110
+
+RUN SIMULATION	
+La simulazione dura fin quando tutti gli articoli sono collegati (pubblicati) su una pagina
+Un articolo guarda suun sottoinsieme delle pagine a disposizione. Le pagine ‘assorbono’ parte delle proprietà che li caratterizzano dai siti web che li accolgono e dagli user che li popolano
+Il motore che decide che un articolo ha trovato la sua pagina utilizza le sue informazioni sui contenuti (parole categorie)  dell’articolo tramite una tabella che contiene un relazione tipo: se il contenuto è X allora la pagina papabile è Y
+Inoltre il motore utilizza le informazioni numeriche sulle pagine per aggiustare il punteggio generato dai contenuti semantici
+Quando questo punteggio ha superato una soglia, allora l’artcolo è pubblicato. Questo modifica i punteggi sul numero di condivisioni
+Ovviamente un articolo può fallire la sua ricerca. E così si passa ad un altro articolo. E cosi via
+	
+
+
+
+
+
+
 
 ## HOW IT WORKS
 
