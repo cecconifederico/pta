@@ -1,4 +1,4 @@
-Codice_Articolo;Contenuto_complottista;Intensita;Tema;Politicamente_orientato;Orientamento_politico;Incitamento_odio;Incitamento_paura;websites
+id_article;contents;intensity;issue;political;political_orientation;incitement_to_hate;incitement_to_fear;id_website
 CT_1;1;5;CoronaFake;0;NA;1;0;web_65
 CT_2;1;5;No_Vax;0;NA;1;1;web_34
 CT_3;1;5;NWO;1;Destra;1;1;web_45

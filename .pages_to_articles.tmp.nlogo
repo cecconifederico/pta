@@ -16,7 +16,7 @@ breed [users user]
 ;
 
 undirected-link-breed [arttowebs arttoweb]
-undirected-link-breed [pagtoarts arttopag]
+undirected-link-breed [arttopags arttopag]
 undirected-link-breed [usetopags usetopag]
 
 articles-own [id_article contents intensity issue political political_orientation incitement_to_hate incitement_to_fear id_website]
@@ -343,10 +343,10 @@ count users
 11
 
 PLOT
-1184
-195
-1594
-413
+1188
+200
+1388
+350
 Page To Articles LINKS
 NIL
 NIL
@@ -358,7 +358,7 @@ true
 false
 "" ""
 PENS
-"default" 1.0 0 -16777216 true "" "plot count pagtoarts"
+"default" 1.0 0 -16777216 true "" "plot count arttopags"
 
 @#$#@#$#@
 ## WHAT IS IT?
